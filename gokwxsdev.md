@@ -18,3 +18,9 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=gokwxsdev&theme=onedark" />
+🏎️ My Discord :
+
+
+
+
+[![gokwxs#1000](https://discord.c99.nl/widget/theme-1/1048255591962910770.png)](https://discord.com/users/1048255591962910770)
